@@ -1,0 +1,47 @@
+# Unreal Engine
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.pdb
+*.idb
+*.aps
+*.res
+*.rsp
+*.pgc
+*.pgd
+*.meta
+*.tlog
+*.log
+*.obj
+*.bin
+*.dll
+*.exe
+*.pak
+*.bat
+*.scc
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.TLH
+*.pch
+*.rsp
+*.pgc
+*.pgd
+/.idea/
+/.vscode/
+
+# macOS
+.DS_Store
+
+# Visual Studio
+.vs/
