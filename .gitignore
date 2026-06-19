@@ -6,6 +6,7 @@ Binaries/
 Build/
 AutomationTool/
 .default/
+
 # Visual Studio
 .vs/
 *.sln
@@ -15,12 +16,46 @@ AutomationTool/
 *.opensdf
 *.VC.db
 *.VC.opendb
+*.pdb
+*.idb
+*.aps
+*.res
+*.rsp
+*.pgc
+*.pgd
+*.meta
+*.tlog
+*.log
+*.obj
+*.bin
+*.dll
+*.exe
+*.pak
+*.bat
+*.scc
+*.ncb
+*.sbr
+*.tlb
+*.tlh
+*.TLH
+*.pch
+
 # Rider
 .idea/
+
+# VS Code
+.vscode/
 
 # UE Project specific
 *.xcodeproj/
 *.xcworkspace/
+
+# Wwise
+*.validationcache
+*.wsettings
+
+# macOS
+.DS_Store
 
 # Plugins - 如果有二进制插件，取消注释下面的行
 # Plugins/
