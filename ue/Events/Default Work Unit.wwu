@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{09E7B281-2442-4E87-807E-56992E23DDDF}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{09E7B281-2442-4E87-807E-56992E23DDDF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_OBJ_campfire_burn" ID="{756CF5C2-CC2A-48B4-AEA3-A9096767CE04}">
+					<ChildrenList>
+						<Action Name="" ID="{B7C9B5E8-C75C-4712-A961-BB704107B3A9}" ShortID="551935716">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_campfire_burn" ID="{FC1BCE57-7CD6-4662-8B7D-35DEE98BD8CE}" WorkUnitID="{2FD7F128-D17A-4F2F-B8F8-C8CF38C6E3D5}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN" ID="{76CCEC58-0692-4C2A-A0D9-2C9207005879}">
+					<ChildrenList>
+						<Action Name="" ID="{DA8C4438-DE55-4EEE-B285-A7B98A3C7D6C}" ShortID="187475402">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{F42B70DA-9532-4644-B6DB-59D6941EE0F6}" WorkUnitID="{FD526CDD-93C2-401B-8C76-5F32904E99F0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_foly_step_run" ID="{75DC9B89-C644-4B65-ABBA-FE2A1ED13ADC}">
+					<ChildrenList>
+						<Action Name="" ID="{10B931B6-0639-4404-A3EC-8F51C377D25E}" ShortID="560773781">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="foly_step_run" ID="{A9346406-95D0-4230-9AB3-05B692039439}" WorkUnitID="{9C581E12-1D43-43CE-A31A-D3723BBDA624}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,30 @@
+# Unreal Engine
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+Build/
+AutomationTool/
+.default/
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+# Rider
+.idea/
+
+# UE Project specific
+*.xcodeproj/
+*.xcworkspace/
+
+# Plugins - 如果有二进制插件，取消注释下面的行
+# Plugins/
+
+# Content exclusions (uncomment if needed)
+# Content/Developers/
+# Content/Collections/
