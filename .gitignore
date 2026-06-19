@@ -40,6 +40,10 @@ DerivedDataCache/
 /.idea/
 /.vscode/
 
+# Wwise
+*.validationcache
+*.wsettings
+
 # macOS
 .DS_Store
 
